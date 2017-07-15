@@ -6,3 +6,4 @@
 
 
 所以目前只能用，git clone https@....git才能克隆
+同时上传到github和开源中国的码云
